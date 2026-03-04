@@ -1,10 +1,9 @@
 👋 My name is Lenny
 ========================
 
-Hey! I'm 19 years old and come from Saxony-Anhalt, Germany. I'm a passionate developer with experience in various programming languages and technologies. I love working on exciting projects and learning new technologies!
+Hey! I'm come from Saxony-Anhalt, Germany. I'm a passionate developer with experience in various programming languages and technologies. I love working on exciting projects and learning new technologies!
 
 * 🌍 I'm based in Saxony-Anhalt, Germany
-* 💼 I'm 19 years old and passionate about programming
 * 🚀 I work with various technologies and frameworks
 * 🧠 I'm constantly improving my skills
 * 🤝 I'm open to collaborating on interesting projects
